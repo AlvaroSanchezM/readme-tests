@@ -1,6 +1,6 @@
 ![Github profile views](https://komarev.com/ghpvc/?username=AlvaroSanchezM&color=blue)
 
-[![AlvaroSanchezM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroSanchezM&hide=prs&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroSanchezM&layout=donut&width=200px)
+[![AlvaroSanchezM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroSanchezM&hide=prs&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroSanchezM&hide_progress=true)
 
 ### Languages and Tools:
 
